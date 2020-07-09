@@ -1,0 +1,31 @@
+{
+  "name": "path-converter-cli",
+  "version": "1.0.0",
+  "description": "Converts between forward/backward slashes depending on the OS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakananit/path-converter-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "windows",
+    "unix",
+    "safe",
+    "path",
+    "filename",
+    "sanitize"
+  ],
+  "author": "hakananit",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hakananit/path-converter-cli/issues"
+  },
+  "homepage": "https://github.com/hakananit/path-converter-cli#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
