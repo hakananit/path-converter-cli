@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// a
 'use strict';
 
 const MAX_PATH_LENGTH = 260;
