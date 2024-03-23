@@ -1,34 +1,6 @@
 #!/usr/bin/env node
 'use strict';
-//a12
-//m1
-//m2
-//a13
-//c
-//c1
-// a
-// a1
-// a2
-//a3
-//a4
-//a5
-//a6
-//d
-//d1
-// a7
-//a8
-//a9
-//a10
-//a11
-//a12
-//a13
-//a18
-//a10
-//a11
-//a12
-//a13
-//a18
-//m3
+
 const MAX_PATH_LENGTH = 260;
 
 let result;
