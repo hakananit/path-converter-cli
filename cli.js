@@ -2,6 +2,7 @@
 'use strict';
 //c
 //c1
+//d
 const MAX_PATH_LENGTH = 260;
 
 let result;
