@@ -19,7 +19,7 @@ const isWindows = function() {
 const isPathLengthSafe = function(path) {
   return path.length < MAX_PATH_LENGTH;
 };
-
+//2
 const replaceSlashForwardToBackward = function(string) {
   return string.replace(/\//g, '\\');
 };
