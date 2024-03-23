@@ -9,7 +9,7 @@
 //4
 //5
 const MAX_PATH_LENGTH = 260;
-
+//3
 let result;
 
 const isWindows = function() {
