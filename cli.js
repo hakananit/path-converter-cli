@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 'use strict';
 //a
-//b
-//c
 //d
 //e
 //f
